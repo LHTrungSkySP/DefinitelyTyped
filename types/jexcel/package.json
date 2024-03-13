@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "@types/jexcel",
-    "version": "3.9.9999",
+    "version": "3.9.99999",
     "projects": [
         "https://github.com/paulhodel/jexcel"
     ],
